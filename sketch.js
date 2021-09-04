@@ -107,7 +107,7 @@ textSize(30);
 text("Cash:100",1000,height/7);
 fill(255);
 textSize(30);
-text("Jwells:200",1000,height/5);
+text("Jewels:200",1000,height/5);
 fill(255);
 textSize(30);
 text("Diamonds:300",1000,height/4);
